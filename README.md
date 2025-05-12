@@ -1,10 +1,11 @@
 # 📜 *Comprovantes* 📜
 
 1. Desvendando ESG (20 horas)
-![Comprovante - Desvendando ESG (20 horas)](https://github.com/user-attachments/assets/535974f6-6a01-44f2-ba29-5fe5c506782f)
+<img width="940" alt="image" src="https://github.com/user-attachments/assets/bc920906-889a-4df8-9200-bccf45b09528" />
 
 2. Web 3.0 (20 horas)
-![Comprovante - Web 3 0 (20 horas)](https://github.com/user-attachments/assets/65908cc2-23a3-4807-a57a-a350ad93ed1a)
+<img width="943" alt="image" src="https://github.com/user-attachments/assets/a5bce709-7733-41f5-95fe-4ba6b299f54f" />
+
 
 3.FluencIA: Fundamentos da Inteligência Artificial (8 horas)
-![Comprovante - FluencIA Fundamentos da Inteligência Artificial (8 horas)](https://github.com/user-attachments/assets/fb74715b-4e4c-4c1b-b828-97a44f5c508c)
+<img width="943" alt="image" src="https://github.com/user-attachments/assets/40c86b5c-fbf5-4fe5-827d-aa84f95068e7" />
